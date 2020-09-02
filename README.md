@@ -4,4 +4,4 @@
 
 ## Original Project
 
-[AutoClicker2 Record Play The Lists Of Mouse Clicks](https://github.com/JoeWittrock/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks)
+## [AutoClicker2 Record Play The Lists Of Mouse Clicks](https://github.com/JoeWittrock/AutoClicker2-Record-Play-The-Lists-Of-Mouse-Clicks)
